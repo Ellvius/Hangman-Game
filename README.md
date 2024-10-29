@@ -21,12 +21,12 @@ Welcome to the Hangman Game! This is a fun command-line game where you try to gu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hangman-game.git
+   git clone https://github.com/Ellvius/Hangman-Game.git
    ```
 
 2. Navigate to the project directory:
     ```bash
-    cd hangman-game
+    cd Hangman-Game
     ```
 
 ### Running the Game
